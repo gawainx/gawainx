@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Githubers 👋
 
 - NLPer
 - Swifter
@@ -10,7 +10,7 @@
 
 Will share and backup my favorite repos, posts and papers in this page.
 
-In case Sina Weibo in China🇨🇳 will cancel hyperlink sharing in August, 2020.
+In case Sina Weibo in China🇨🇳 will forbid hyperlink sharing in August, 2020.
 
 <!--
 **gawainx/gawainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
