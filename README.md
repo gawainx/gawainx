@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+- NLPer
+- Swifter
+- 🐍Pythoner (>= 3.7)
+- 📷Photographer
+- ✈️Traveller
+- 😍: Swift, Python 3.8, Golang, Julia, Kotlin, Scala, ...
+- 🤬: Java, Python 2.x, Python 3.x < 3.6, PHP, NodeJS
+
+Will share and backup my favorite repos, posts and papers in this page.
+
+In case Sina Weibo in China🇨🇳 will cancel hyperlink sharing in August, 2020.
 
 <!--
 **gawainx/gawainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
