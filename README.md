@@ -2,7 +2,7 @@
 
 - NLPer
 - Swifter
-- 🐍Pythoner (>= 3.7)
+- 🐍Pythoner (>= 3.8)
 - 📷Photographer
 - ✈️Traveller
 - 🏃Runner
@@ -10,8 +10,6 @@
 - 🤬: Java, Python 2.x, Python 3.x < 3.6, PHP, NodeJS
 
 Will share and backup my favorite repos, posts and papers in this page.
-
-In case Sina Weibo in China🇨🇳 will forbid hyperlink sharing in August, 2020.
 
 <!--
 **gawainx/gawainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
