@@ -7,7 +7,6 @@
 - ✈️Traveller
 - 🏃Runner
 - 😍: Swift, Python 3.8+, Golang, Julia, Kotlin, Scala, ...
-- 🤬: Java, Python 2.x, Python 3.x < 3.6, PHP, NodeJS
 
 Will share and backup my favorite repos, posts and papers in this page.
 
